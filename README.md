@@ -13,7 +13,7 @@
     <img src="https://img.youtube.com/vi/ByaMZNx2gec/edit/maxresdefault.jpg" width="85%" style="border-radius: 12px; border: 2px solid #333;" />
   </a>
   <br/>
-  <i>"Architecture isn't just for buildings; it's for the biological OS."</i>
+  <i>"Architecting the Apex of The biological OS."</i>
 </p>
 
 ---

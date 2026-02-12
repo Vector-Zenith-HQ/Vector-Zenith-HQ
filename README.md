@@ -19,7 +19,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://youtube.com/shorts/0z2HGKbABKk">
-        <img src="https://img.youtube.com/vi/ByaMZNx2gec/hqdefault.jpg" width="100%" style="border-radius:12px; border: 2px solid #5a008a;" />
+        <img src="https://img.youtube.com/vi/0z2HGKbABKk/hqdefault.jpg" width="100%" style="border-radius:12px; border: 2px solid #5a008a;" />
       </a>
       <p align="center"><b><font color="#c21e56">📡 PROTOCOL 01: TELEMETRY</font></b></p>
     </td>

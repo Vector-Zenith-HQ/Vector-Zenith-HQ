@@ -10,7 +10,7 @@
 ### 📡 ACTIVE AUDIT: PROTOCOL 01
 <p align="center">
   <a href="https://youtube.com/shorts/0z2HGKbABKk">
-    <img src="https://img.youtube.com/vi/ByaMZNx2gec/edit/maxresdefault.jpg" width="85%" style="border-radius: 12px; border: 2px solid #333;" />
+    <img src="https://img.youtube.com/vi/ByaMZNx2gec/maxresdefault.jpg" width="85%" style="border-radius: 12px; border: 2px solid #333;" />
   </a>
   <br/>
   <i>"Architecting the Apex of The biological OS."</i>
